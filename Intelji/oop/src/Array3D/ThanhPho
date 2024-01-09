@@ -1,0 +1,25 @@
+Lớp[]=[student1, student2, student3,] // mảng 1 chiều
+Trường[]=[lớp 1, lớp 2, lớp 3] // mảng 1 chiều +1 chiều( các phần tử bên trong)= 2 chiều
+1TP=[trường 1, trường 2, trường 3]// mảng 1 chiều +2 chiều( các phần tử bên trong)= 3 chiều
+
+TP=
+[
+
+    [//trường
+        [student1, student2, student3,], //lớp
+        [student1, student2, student3,], //lớp
+        [student1, student2, student3,] //lớp
+    ]
+ ,  [//trường
+           [student1, student2, student3,], //lớp
+           [student1, student2, student3,], //lớp
+           [student1, student2, student3,]//lớp
+    ]
+ ,  [//trường
+           [student1, student2, student3,], //lớp
+           [student1, student2, student3,], //lớp
+           [student1, student2, student3,] //lớp
+    ]
+]
+
+duyệt qua từng trường -> duyệt qua từng lớp -> duyệt qua từng học sinh

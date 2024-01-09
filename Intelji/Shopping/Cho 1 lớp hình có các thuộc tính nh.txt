@@ -1,0 +1,21 @@
+Cho 1 lớp hình có các thuộc tính như : màu sắc, tên
+Lớp hình có 1 phương thức ảo là tính diện tích, chu vi
+
+cho 1 mảng các hình  cho biết  tên và màu sắc của hình có diện tích lớn nhất 
+
+5 4 1 7 6 
+i = 0 , a[i] = 5 
+i = 1 , a[i] = 4
+
+
+
+muốn thêm 1 sản phẩm thì lấy tất cả sản phẩm trong giỏ + sản phẩm muốn thêm
+
+*Chức năng đặt hàng 
++ Cần trả về ? // Đơn hàng  
++ Đơn hàng có những thông tin nào//  danh sách sản phẩm, Khách  hàng  
++ Sản phẩm nào ? những sản phẩm được đặt 
++
+
+Tính tổng giỏ hàng
+
